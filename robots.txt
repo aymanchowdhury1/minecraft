@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aymanchowdhury1.github.io/minecraft/sitemap.xml
